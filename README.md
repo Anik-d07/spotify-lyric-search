@@ -41,8 +41,8 @@ Python 3.9 or above
 Internet connection (for first-time NLTK setup)
 
 2️⃣ Clone the Repository
-git clone https://github.com/your-username/smart-todo-api.git
-cd smart-todo-api
+git clone https://github.com/Anik-d07/spotify-lyric-search
+cd spotify-lyric-search
 
 3️⃣ Install Dependencies
 Open a terminal inside the project folder and run:
@@ -72,4 +72,5 @@ Python
 Streamlit (Web Interface)
 NLTK (Text preprocessing)
 BM25 (rank-bm25) (Information Retrieval)
+
 Pandas (Data handling)
